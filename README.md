@@ -27,4 +27,4 @@ yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
 
 ## Contents
 
-- Under-fetching, Over-fetching ??
+- Under-fetching, Over-fetching
