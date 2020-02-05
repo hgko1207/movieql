@@ -24,6 +24,7 @@ yarn global add nodemon
 yarn global add babel-cli --ignore-engines
 yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
 yarn add node-fetch
+yarn add axios
 ```
 
 ## Contents
